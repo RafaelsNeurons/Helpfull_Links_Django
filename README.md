@@ -18,6 +18,9 @@ Official Django Tutorial
 6. https://docs.djangoproject.com/en/3.2/intro/tutorial06/ #STATIC FILES MANAGMENT
 7. https://docs.djangoproject.com/en/3.2/intro/tutorial07/ #CUSTOMIZING ADMIN-SITE
 
+Django Backend Tutorial:
+https://www.youtube.com/watch?v=jBzwzrDvZ18
+
 Transfer Learning and Fine Tuning with Tensorflow Keras Tutorial
 1.https://keras.io/guides/transfer_learning/
 
