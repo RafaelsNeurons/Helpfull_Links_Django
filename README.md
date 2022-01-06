@@ -19,7 +19,7 @@ Official Django Tutorial
 7. https://docs.djangoproject.com/en/3.2/intro/tutorial07/ #CUSTOMIZING ADMIN-SITE
 
 Django Backend Tutorial:
-https://www.youtube.com/watch?v=jBzwzrDvZ18
+https://www.youtube.com/watch?v=jBzwzrDvZ18 (I really recommend this one, very detailed discription of django)
 
 Transfer Learning and Fine Tuning with Tensorflow Keras Tutorial
 1.https://keras.io/guides/transfer_learning/
