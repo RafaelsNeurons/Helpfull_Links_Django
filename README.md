@@ -9,6 +9,9 @@ Installing Tensorflow on Macbook M1
 1. https://developer.apple.com/metal/tensorflow-plugin/
 2. https://betterprogramming.pub/installing-tensorflow-on-apple-m1-with-new-metal-plugin-6d3cb9cb00ca
 
+Installing Tensorflow on Windows with GPU Nvidia Support (really recommend this Youtube Channel !)
+1. https://www.youtube.com/watch?v=dZh_ps8gKgs&t=790s 
+
 Official Django Tutorial
 1. https://docs.djangoproject.com/en/3.2/intro/tutorial01/ #CREATE PROJECT AND APPLICATION
 2. https://docs.djangoproject.com/en/3.2/intro/tutorial02/ #SETUP DATABASE; CREATE MODEL, INTRO ADMIN-SITE
